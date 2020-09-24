@@ -1,7 +1,7 @@
 # Bisection-method-Matlab
 The bisection method is a root-finding method that applies to any continuous functions for which one knows two values with opposite signs.
-
-#Algorithm
+![bisection](https://github.com/Helloessam/Bisection-Method/blob/master/800px-Bisection_method.svg.png)
+# Algorithm
 
 The method may be written in pseudocode as follows
 
@@ -28,4 +28,4 @@ Output("Method failed.") // max number of steps exceeded
 Ref :  Burden & Faires 1985, p. 29. This version recomputes the function values at each iteration rather than carrying them to the next iterations.
 
 
-![bisection](https://github.com/Helloessam/Bisection-Method/blob/master/800px-Bisection_method.svg.png)
+
