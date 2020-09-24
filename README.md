@@ -26,3 +26,6 @@ end while
 Output("Method failed.") // max number of steps exceeded
 
 Ref :  Burden & Faires 1985, p. 29. This version recomputes the function values at each iteration rather than carrying them to the next iterations.
+
+
+![bisection](https://github.com/Helloessam/Bisection-Method/blob/master/800px-Bisection_method.svg.png)
